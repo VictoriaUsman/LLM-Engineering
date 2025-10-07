@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="ipywidgets" />
+          <option value="scikit-learn" />
+          <option value="gensim" />
+          <option value="torch" />
+          <option value="transformers" />
+          <option value="langchain-openai" />
+          <option value="langchain-chroma" />
+          <option value="langchain-community" />
+          <option value="datasets" />
+          <option value="google-generativeai" />
+          <option value="anthropic" />
+          <option value="plotly" />
+          <option value="jupyter-dash" />
+          <option value="modal" />
+          <option value="ollama" />
+          <option value="speedtest-cli" />
+          <option value="sentence_transformers" />
+          <option value="feedparser" />
+          <option value="wandb" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
